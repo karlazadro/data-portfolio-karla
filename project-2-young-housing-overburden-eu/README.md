@@ -17,6 +17,15 @@ In this project I analyse the housing cost overburden rate for young people (15�
   - Geography: EU-27 and EU member states  
   - Years: 2013–2024 (depending on availability)
 
+
+## Key takeaways (from the dashboard)
+- In **2024**, Croatia’s housing cost overburden rate (18–64) is **3.1%**, among the lowest in Europe—**second lowest after Cyprus (2.7%)**.
+- Croatia is **far below the displayed average (~8%)**, a gap of roughly **~5 pp**.
+- The Croatia trend improves from **~7.3% (2014)** to **3.1% (2024)** (about **-4.2 pp**), indicating a sustained long-term decline.
+- The EU trend also declines (roughly **~12% to ~8.4%** over the period), but remains consistently higher than Croatia throughout.
+- Cross-country differences in **2024** are extreme (e.g., **Greece: 28.5%** as a clear outlier), underscoring that housing cost pressure varies drastically by country.
+
+
 ## Tools
 - Tableau (visualisation)
 - Excel (light data cleaning and export from Eurostat)
