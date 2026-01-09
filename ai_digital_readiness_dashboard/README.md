@@ -5,6 +5,9 @@ A Tableau project that combines Eurobarometer data on attitudes towards artifici
 ## Live dashboard (Tableau Public)
 - **View the dashboard:** https://public.tableau.com/views/EUAIDigitalSkillsCroatiafocus/Dashboard1
 
+- ## Preview
+![Digital skills & AI attitudes dashboard](figures/digital_skills_ai_attitudes.png)
+
 
 ## Goal
 
@@ -48,6 +51,12 @@ Make it easy to:
 - Start with the overall Croatia-focused view.
 - Use filters/interactions to compare benchmarks (e.g., different groups/years/indicators — depending on the dashboard controls).
 - Focus on the “so-what”: which indicators are strongest/weakest and where the biggest gaps appear.
+
+## Key takeaways (from the dashboard)
+- Croatia’s **Digital Skills Index is ~13.1**, above the EU27 reference line (~11), indicating **stronger-than-average digital skills** in this view.
+- Croatia’s **attitude toward AI at work (~0.55)** is **slightly below the indicated average (~0.6)**, suggesting skills are relatively strong while workplace AI sentiment is more cautious.
+- The scatter suggests a **generally positive relationship** between digital skills and AI attitudes, but not a one-to-one match—countries with similar skills can differ in AI sentiment.
+- In the ranking view, Croatia sits in the **mid-to-upper group**: below top performers (e.g., FI/NL/IE/SE) but ahead of several others (e.g., ES/AT/FR), supporting a “solid foundation with room to grow” narrative.
 
 ## Visuals
 
