@@ -25,4 +25,3 @@ Each project includes a short problem statement, the approach (cleaning/analysis
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/karlazadro1202/
-- Email: karla.zadro@icloud.com
