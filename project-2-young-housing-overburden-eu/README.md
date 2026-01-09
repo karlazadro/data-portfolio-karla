@@ -32,7 +32,8 @@ Make it easy to:
   - Geography: EU-27 and EU member states  
   - Years: 2013–2024 (depending on availability)
 
-Approach (what I did)
+
+## Approach (what I did)
 1) **Problem framing**
    - Defined the core questions: “How does Croatia compare to the EU over time?” and “Where does Croatia sit in the 2024 distribution across countries?”
 
